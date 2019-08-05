@@ -1,0 +1,20 @@
+{
+  "name": "ivaniuk/task",
+  "authors": [
+    {
+      "name": "Sergei Ivaniuk",
+      "email": "srg.ivaniuk@gmail.com"
+    }
+  ],
+  "require": {
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "autoload-dev": {
+  }
+}
